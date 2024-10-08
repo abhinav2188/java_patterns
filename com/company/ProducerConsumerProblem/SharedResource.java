@@ -1,4 +1,4 @@
-package ProducerConsumerProblem;
+package com.company.ProducerConsumerProblem;
 
 public class SharedResource {
     int instancesCount;
